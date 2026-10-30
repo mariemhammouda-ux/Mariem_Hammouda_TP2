@@ -1,0 +1,26 @@
+# Android Studio
+*.iml
+.gradle/
+.idea/
+local.properties
+**/build/
+.externalNativeBuild/
+.cxx/
+
+# Captures d'écran
+captures/
+cap/
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Fichiers volumineux et inutiles
+*.exe
+*.zip
+*.iso
+*.apk
+*.aab
+
+# Système
+.DS_Store
